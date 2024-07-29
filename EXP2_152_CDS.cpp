@@ -31,3 +31,10 @@ int main() {
 
     return 0;
 }
+//Output
+Enter first number: 10
+Enter second number: 2
+Sum: 12
+Difference: 8
+Product: 20
+Quotient: 5
