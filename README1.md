@@ -1,13 +1,12 @@
 #EXP 1:- 
-Aim:- To learn how to install VS Code on your system qand run a code showig "Hello World" 
+Aim:
+a. To display 'Hello World'.
+b. To display the sum of two numbers.
+c. To display the average of two numbers.
+d. To determine whether a number is an odd or an even number.
+e. To determine whether a year is a leap year or not.
 
-Theory:-
-step 1: Install Visual Studio Code Download VS Code: Go to the Visual Studio Code website. Click on the download button that matches your operating system (Windows, macOS, or Linux). Install VS Code:
-
-macOS: Open the downloaded .dmg file, drag and drop the VS Code icon into the Applications folder.
-
-You need a C++ compiler to compile and run your C++ programs. The most common compiler is GCC. macOS:
-
-Install Xcode Command Line Tools: Open a terminal and run: xcode-select --install. Follow the on-screen instructions to complete the installation. 
-Linux:
-Install GCC: Open a terminal and run: sudo apt-get update and sudo apt-get install build-essential (for Debian-based systems like Ubuntu). Step 3: Set Up C++ Extension in VS Code Open VS Code. Install the C++ Extension: Click on the Extensions view icon on the Sidebar (or press Ctrl+Shift+X). Search for "C++". Install the extension named "C/C++" by Microsoft. Step 4: Write and Run "Hello World" Program Open a New File: Go to File -> New File. Save the file with a .cpp extension, e.g., hello.cpp. Write the C++ Code: Copy and paste the following code into hello.cpp:
+Theory:
+C++ is programming language that is procedural, object-oriented, and generic in nature. The language was developed by Bjarne Stroustrup, C++ is an extension of C, adding classes and objects to enhance its capabilities. At its core, C++ programs consist of functions, variables, and control structures.
+C++ introduces the concept of classes, which encapsulate data and functions which brings about object-oriented programming. Objects are instances of classes, allowing data abstraction and inheritance. Operator overloading and templates enhance functionality, enabling code flexibility.
+Standard libraries in C++ are crucial because they contain needed functions and data structures, which include vectors, lists and strings. These comprise bold container classes and algorithms in Standard Template Library (STL). There is a solid error management provided by exception handling.
