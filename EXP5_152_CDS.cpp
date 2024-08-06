@@ -69,3 +69,13 @@ int main() {
     return 0;
 }
 
+//Output
+Enter 3 variables: 
+5
+3
+6
+c is the largest number
+Enter a number between 1 to 12
+9
+September
+
