@@ -1,6 +1,18 @@
 #EXP:-2 
-Aim:- To do algebric functions like addition, multiplication, subtraction and division in C++ 
+Aim:
 
-Theory:- In C++, you declare variables to store data. For basic arithmetic operations, you usually use int for integers or double for floating-point numbers.
+The aim of this program is to determine and print the size of various data types in bytes using the sizeof operator in C++.
 
-Basic Arithmetic Operators Addition (+): Adds two numbers. Subtraction (-): Subtracts one number from another. Multiplication (*): Multiplies two numbers. Division (/): Divides one number by another. For integer division, the result is an integer. For floating-point division, the result is a floating-point number.
+Theory:
+
+Data Types and Variables:
+
+Variables a, b, c, d, e, f, g, h, and i are declared to represent different data types (char, int, short int, long int, float, double, long double, bool, wchar_t respectively).
+
+Sizeof Operator:
+
+The sizeof operator is used to determine the size of each variable in bytes. Each size is printed using std::cout along with appropriate labels.
+
+Conclusion:
+
+This program effectively illustrates how to use the sizeof operator to obtain the size of various data types in bytes in C++. The sizes are printed to the console, showing the memory allocation for each type on the specific environment where the program is compiled and executed. The output confirms the standard sizes of these data types on most typical systems, providing valuable information for understanding memory usage and data representation in C++ programming
